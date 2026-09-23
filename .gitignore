@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pth
+outputs/
+.DS_Store
+*.log
+exp_scripts/
