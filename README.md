@@ -2,7 +2,7 @@
 
 Jeongin Kim, Sohyun Ahn, Seo Young Kang, JaeYi Sung, Soomin Kim, Sungho Cho, Rena Lee, Kwanchang Kim, Junhyug Noh
 
-[[`Paper`](#)] [[`Project`](https://jn-kim.github.io/ash-mil/)] [[`BibTeX`](#citation)]
+[[`Paper`](https://papers.miccai.org/miccai-2026/paper/4609_paper.pdf)] [[`Project`](https://jn-kim.github.io/ash-mil/)] [[`BibTeX`](#citation)]
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
