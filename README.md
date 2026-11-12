@@ -147,3 +147,8 @@ If you find this work useful, please cite:
 - [CXAS](https://github.com/ConstantinSeibold/ChestXRayAnatomySegmentation) for anatomy segmentation used to build the priors.
 - [NIH ChestX-ray8](https://nihcc.app.box.com/v/ChestXray-NIHCC) by the NIH Clinical Center. The split CSVs and COCO-format bbox files under `data/cxr8/` are derived from it; please also cite Wang et al., CVPR 2017 if you use them.
 - [MIMIC-CXR-annotations](https://github.com/leotam/MIMIC-CXR-annotations) for the MIMIC-CXR held-out bbox annotations.
+
+
+## Contact
+
+For questions about the code, please contact [jn.kim@ewha.ac.kr](mailto:jn.kim@ewha.ac.kr)
